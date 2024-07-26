@@ -15,9 +15,6 @@ When I’m not working, you might find me reading books, watching movies and tv 
 You can download my Cover Letter and CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1wNNJeKL7JkAMJOpUpKl4UsKd0EuKCyFe?usp=drive_link).
 
 ## Skills
-
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
-
 __Manual Testing__
   * Execute test cases based on test plans and requirements.
   * Conduct regression testing to ensure new changes don’t break existing features.
@@ -75,42 +72,42 @@ __Confluence__
 ## Work Experience
 
 ### CUSTOMER INFORMATION MANAGEMENT SOFTWARE TESTING
-####Objective:
+##Objective:
     To conduct regression testing for a customer information management software usingautomation tools.
-####Tools Used:
+##Tools Used:
     Micro Focus UFT, VB.NET
-####Tasks Accomplished:
+##Tasks Accomplished:
     * Utilized Micro Focus UFT and VB.NET to automate regression testing for a customer information management software.
     * Developed and maintained automation test scripts to validate software functionality and ensure compatibility with new updates.
     * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
     * Collaborated closely with the development team to analyze UFT test results, identify root causes of failures, and address issues promptly.
-####Outcome:
+##Outcome:
     Reduced manual effort and increased testing efficiency, resulting in improved software quality and stability.
 
 ### UTILITIES COMPANY WEBSITE TESTING
-####Objective:
+##Objective:
     To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
-####Tools Used:
+##Tools Used:
     Azure DevOps, Service Now, Agile Methodologies, API Testing
-####Tasks Accomplished:
+##Tasks Accomplished:
     * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
     * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
     * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
     * Created comprehensive test plans and executed test cases to validate the functionality of the website.
-####Outcome:
+##Outcome:
     Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
 
 ### UTILITIES COMPANY WEBSITE TESTING
-####Objective:
+##Objective:
     To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
-####Tools Used:
+##Tools Used:
     Azure DevOps, Service Now, Agile Methodologies, API Testing
-####Tasks Accomplished:
+##Tasks Accomplished:
     * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
     * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
     * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
     * Created comprehensive test plans and executed test cases to validate the functionality of the website.
-####Outcome:
+###Outcome:
     Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
 
 
