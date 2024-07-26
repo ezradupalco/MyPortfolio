@@ -73,22 +73,18 @@ __Confluence__
 
 ### CUSTOMER INFORMATION MANAGEMENT SOFTWARE TESTING
 __Objective:__
-
     * To conduct regression testing for a customer information management software usingautomation tools.
     
 __Tools Used:__
-
     * Micro Focus UFT, VB.NET
     
 __Tasks Accomplished:__
-
     * Utilized Micro Focus UFT and VB.NET to automate regression testing for a customer information management software.
     * Developed and maintained automation test scripts to validate software functionality and ensure compatibility with new updates.
     * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
     * Collaborated closely with the development team to analyze UFT test results, identify root causes of failures, and address issues promptly.
     
 __Outcome:__
-
     * Reduced manual effort and increased testing efficiency, resulting in improved software quality and stability.
 
 ### UTILITIES COMPANY WEBSITE TESTING
