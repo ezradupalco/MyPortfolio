@@ -90,29 +90,53 @@ __Outcome:__
 
 
 ### UTILITIES COMPANY WEBSITE TESTING
+
 __Objective:__
   * To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
+    
 __Tools Used:__
   * Azure DevOps, Service Now, Agile Methodologies, API Testing
+    
 __Tasks Accomplished:__
   * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
   * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
   * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
   * Created comprehensive test plans and executed test cases to validate the functionality of the website.
+    
 __Outcome:__
   * Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
 
-### UTILITIES COMPANY WEBSITE TESTING
-__Objective:__
-    To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
-__Tools Used:__
-    Azure DevOps, Service Now, Agile Methodologies, API Testing
-__Tasks Accomplished:__
-    * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
-    * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
-    * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
-    * Created comprehensive test plans and executed test cases to validate the functionality of the website.
-__Outcome:__
-    Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
 
+### AUTOMATION TEST SCRIPT DEVELOPMENT WITH SELENIUM
+
+__Objective:__
+  * To develop and maintain automation test scripts using Selenium for a web-based application.
+
+__Tools Used:__
+  * Selenium WebDriver, TestNG, Java 
+
+__Tasks Accomplished:__
+  * Designed, developed, and maintained automation test scripts using Selenium WebDriver and Java.
+  * Implemented automated test suites to validate critical functionalities and user workflows of the web application.
+  * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
+  * Conducted regular test executions to identify defects and ensure software reliability and performance.
+
+__Outcome:__
+  * Streamlined testing processes and improved test coverage, leading to enhanced software quality and faster release cycles.
+
+
+### HR-IT WEBSITE TESTING WITH SELENIUM
+
+__Objective:__
+  * To maintain test scripts for an HR-IT website to ensure functionality and usability.
+
+__Tools Used:__
+  * Selenium WebDriver, TestNG, Python 
+
+__Tasks Accomplished:__
+  * Created automated test suites to validate HR-IT website functionalities, including employee onboarding, leave management, and employee directory.
+  * Conducted regular test executions to identify defects and ensure the reliability and performance of the HR-IT website.
+
+__Outcome:__
+  * Ensured the reliability and effectiveness of automation tests, enabling continuous improvement of the HR-IT website's functionality and performance.
 
