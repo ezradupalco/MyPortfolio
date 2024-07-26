@@ -72,42 +72,42 @@ __Confluence__
 ## Work Experience
 
 ### CUSTOMER INFORMATION MANAGEMENT SOFTWARE TESTING
-##Objective:
+__Objective:__
     To conduct regression testing for a customer information management software usingautomation tools.
-##Tools Used:
+__Tools Used:__
     Micro Focus UFT, VB.NET
-##Tasks Accomplished:
+__Tasks Accomplished:__
     * Utilized Micro Focus UFT and VB.NET to automate regression testing for a customer information management software.
     * Developed and maintained automation test scripts to validate software functionality and ensure compatibility with new updates.
     * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
     * Collaborated closely with the development team to analyze UFT test results, identify root causes of failures, and address issues promptly.
-##Outcome:
+__Outcome:__
     Reduced manual effort and increased testing efficiency, resulting in improved software quality and stability.
 
 ### UTILITIES COMPANY WEBSITE TESTING
-##Objective:
+__Objective:__
     To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
-##Tools Used:
+__Tools Used:__
     Azure DevOps, Service Now, Agile Methodologies, API Testing
-##Tasks Accomplished:
+__Tasks Accomplished:__
     * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
     * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
     * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
     * Created comprehensive test plans and executed test cases to validate the functionality of the website.
-##Outcome:
+__Outcome:__
     Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
 
 ### UTILITIES COMPANY WEBSITE TESTING
-##Objective:
+__Objective:__
     To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
-##Tools Used:
+__Tools Used:__
     Azure DevOps, Service Now, Agile Methodologies, API Testing
-##Tasks Accomplished:
+__Tasks Accomplished:__
     * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
     * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
     * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
     * Created comprehensive test plans and executed test cases to validate the functionality of the website.
-###Outcome:
+__Outcome:__
     Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
 
 
