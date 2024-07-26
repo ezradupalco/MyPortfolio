@@ -88,18 +88,19 @@ __Tasks Accomplished:__
 __Outcome:__
   * Reduced manual effort and increased testing efficiency, resulting in improved software quality and stability.
 
+
 ### UTILITIES COMPANY WEBSITE TESTING
 __Objective:__
-    To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
+  * To perform automation and functional testing on a utilities website to ensure a seamless user experience and error-free functionality.
 __Tools Used:__
-    Azure DevOps, Service Now, Agile Methodologies, API Testing
+  * Azure DevOps, Service Now, Agile Methodologies, API Testing
 __Tasks Accomplished:__
-    * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
-    * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
-    * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
-    * Created comprehensive test plans and executed test cases to validate the functionality of the website.
+  * Conducted manual testing using Agile methodology and Azure DevOps for efficient test planning and execution.
+  * Detected and recorded bugs using ServiceNow, ensuring accurate documentation and tracking of issues.
+  * Conducted thorough regression testing to identify and mitigate potential issues introduced by software changes.
+  * Created comprehensive test plans and executed test cases to validate the functionality of the website.
 __Outcome:__
-    Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
+  * Ensured the reliability and usability of the website, contributing to enhanced customer satisfaction and retention.
 
 ### UTILITIES COMPANY WEBSITE TESTING
 __Objective:__
